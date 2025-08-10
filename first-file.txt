@@ -1,3 +1,5 @@
 first file
 
 second line added
+
+Third file
